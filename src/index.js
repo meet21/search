@@ -11,7 +11,7 @@ ReactDOM.render(
     <Auth0Provider
     domain="dev-fh77p2pg.us.auth0.com"
     clientId="6xN7lljsWR3HrBnW9ZMeDVuIjZyfiNo5"
-    redirectUri={window.location.origin}
+    redirectUri="https://meet21.github.io/search/"
     cacheLocation='localstorage'
     >
     <GithubProvider>
