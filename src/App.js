@@ -10,7 +10,7 @@ function App() {
           <PrivateRoute path='/' exact={true}>
             <Dashboard></Dashboard>
           </PrivateRoute>
-          <Route path='/login'>
+          <Route path='https://meet21.github.io/search/login'>
             <Login></Login>
           </Route>
           <Route path='*'>
