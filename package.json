@@ -1,7 +1,7 @@
 {
   "name": "github-search",
   "version": "0.1.0",
-  "homepage": "https://meet21.github.io/github_search",
+  "homepage": "http://meet21.github.io/github_search",
   "private": true,
   "dependencies": {
     "@auth0/auth0-react": "^1.0.0",
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
