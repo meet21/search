@@ -1,7 +1,7 @@
 {
   "name": "github-search",
   "version": "0.1.0",
-  "homepage": "https://meet21.github.io/github_search/",
+  "homepage": "https://meet21.github.io/Github-search/",
   "private": true,
   "dependencies": {
     "@auth0/auth0-react": "^1.0.0",
